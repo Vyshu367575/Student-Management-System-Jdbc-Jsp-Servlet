@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JDBCsecondApproach
+Bundle-SymbolicName: JDBCsecondApproach
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: JDBCsecondApproach.jar,
+ vyshn/Downloads/mysql-connector-java-8.0.28.jar
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Export-Package: .,
+ com.vyshu
